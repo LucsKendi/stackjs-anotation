@@ -14,13 +14,13 @@
 
 Também pode decidir que passo tomar com base em alguma condição estabelecida:
 
-![**Se a nota for maior ou igual a 7, SIM → Aprovado. Se menor, reprovado. Ambos enviam o resultado no final.**](../ASSETS\decisao.jpg)
+![**Se a nota for maior ou igual a 7, SIM → Aprovado. Se menor, reprovado. Ambos enviam o resultado no final.**](../ASSETS/decisao.jpg)
 
 **Se a nota for maior ou igual a 7, SIM → Aprovado. Se menor, reprovado. Ambos enviam o resultado no final.**
 
 ## Algoritmos na vida real
 
-![Untitled](../ASSETS\algoritmosvidareal.jpg)
+![Untitled](../ASSETS/algoritmosvidareal.jpg)
 
 Existe um passo a passo para todos os processos. 
 
@@ -28,16 +28,16 @@ Existe um passo a passo para todos os processos.
 
 ### Vestir 1.0
 
-![Untitled](../ASSETS\vestir1.jpg)
+![Untitled](../ASSETS/vestir1.jpg)
 
 Otimizado? Não. Sapato colocado antes da calça.
 
 ### Vestir 2.0
 
-![Untitled](../ASSETS\vestir2.jpg)
+![Untitled](../ASSETS/vestir2.jpg)
 
 …
 
 ### Vestir 3.0
 
-![Untitled](../ASSETS\vestir3.jpg)
+![Untitled](../ASSETS/vestir3.jpg)
