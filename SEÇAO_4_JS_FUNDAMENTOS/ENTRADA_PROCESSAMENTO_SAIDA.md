@@ -25,3 +25,15 @@ Exemplo:
 3. **Saída**:
 
 - Bolo pronto.
+
+## Representação de algoritmos
+
+- Fluxograma;
+- Linguagem natural (Português, espanhol, inglês);
+
+- Linguagem artificial;
+- C#, Java, PHP, JS, Python.
+
+- Pseudo-linguagem
+![Untitled](../ASSETS/2.jpg)
+obs: Uma pseudo-linguagem se aproxima de uma linguagem de programação, mas ainda não é interpretada pela máquina
