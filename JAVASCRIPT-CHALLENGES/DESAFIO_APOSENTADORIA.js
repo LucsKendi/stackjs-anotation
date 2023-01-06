@@ -22,7 +22,7 @@ if (gender == "Male") {
         }
 
     } else {
-        
+        console.log("Opção inválida.")
     }
     // Condição 1 não passou
   }
