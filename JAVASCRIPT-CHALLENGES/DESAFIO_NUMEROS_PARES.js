@@ -1,6 +1,6 @@
 /*
 Mostre um arranjo de números com 50 elementos (mostrando apenas os pares)
-e avisando o usuário toda vez que dez elementos do conjunto se passarem.
+e avisando o usuário toda vez que dez elementos do conjunto se passarem
 */
 
 let arrayInicial = [];
