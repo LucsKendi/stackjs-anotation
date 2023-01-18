@@ -8,4 +8,4 @@ const company = {
     }
 }
 
-console.log(`A empresa ${company.name} está localizada na ${company.adress.street}, ${company.adress.number}`)
+console.log(`A empresa ${company.name} está localizada na ${company.adress.street} ${company.adress.number}`)
